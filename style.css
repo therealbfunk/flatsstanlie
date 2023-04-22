@@ -246,7 +246,7 @@ p {
   }
 
   .flex-item-next3 {
-    background-image: url("./backgrounds/bg2.jpg");
+    background-image: url("bg2.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
@@ -258,7 +258,7 @@ p {
   }
   
   .flex-item-next4 {
-    background-image: url("./flats/flats10.jpg");
+    background-image: url("flats10.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
