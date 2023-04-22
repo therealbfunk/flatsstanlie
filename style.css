@@ -274,7 +274,7 @@ p {
     .flex-item-right, .flex-item-left {
       flex: 50%;
     }
-    .flex-item-next3{
+    .flex-item-next4{
         background-position-y: 66%;
         background-position-x: 20%;
     }
@@ -297,13 +297,13 @@ p {
     }
 }
 @media (min-width: 750px) {
-    .flex-item-next3 {
+    .flex-item-next4 {
         background-position-y: 66%;
         background-position-x: 40%;
     }
 }
 @media (max-width: 458px) {
-    .flex-item-next3 {
+    .flex-item-next4 {
         background-position-y: 66%;
         background-position-x: 90%;
     }.brand {
@@ -311,7 +311,7 @@ p {
     }
 }
 @media (min-width: 940px) {
-    .flex-item-next3 {
+    .flex-item-next4 {
         background-position-y: 35%;
         background-position-x: -20%;
     }}
