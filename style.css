@@ -1,6 +1,6 @@
 @font-face {
     font-family: audiowide;
-    src: url(./fonts/Audiowide-Regular.ttf);
+    src: url(Audiowide-Regular.ttf);
  }
  * {
     padding: 0;
@@ -34,7 +34,7 @@
    font-family: audiowide;
    font-weight: 600;
    text-shadow: 2px 2px #13ffeb;
-   background-image: url('./backgrounds/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg');
+   background-image: url('pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg');
    background-size: 250px;
    background-repeat: repeat;
    color: rgba(0, 0, 0, 0.801);
@@ -187,7 +187,7 @@ p {
   }
   
   .flex-item-left {
-    background-image: url("./backgrounds/resul-mentes-DbwYNr8RPbg-unsplash.jpg");
+    background-image: url("resul-mentes-DbwYNr8RPbg-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: transparent;
@@ -209,7 +209,7 @@ p {
 
 
   .flex-item-right {
-    background-image: url("./flats/flats4.jpg");
+    background-image: url("flats4.jpg");
     background-size: cover;
     background-position-y: 50%;
     background-position-x: 75%;
@@ -222,7 +222,7 @@ p {
   }
 
   .flex-item-next1 {
-    background-image: url("./backgrounds/bg2.jpg");
+    background-image: url("bg2.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ p {
   }
 
   .flex-item-next2 {
-    background-image: url("./backgrounds/rodolfo-puchulu-jGfIzudYK_Q-unsplash.jpg");
+    background-image: url("rodolfo-puchulu-jGfIzudYK_Q-unsplash.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
@@ -246,7 +246,7 @@ p {
   }
 
   .flex-item-next3 {
-    background-image: url("./backgrounds/bg2.jpg");
+    background-image: url("bg2.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
@@ -258,7 +258,7 @@ p {
   }
   
   .flex-item-next4 {
-    background-image: url("./flats/flats10.jpg");
+    background-image: url("flats10.jpg");
     background-size: cover;
 
     background-repeat: no-repeat;
