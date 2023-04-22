@@ -1,6 +1,6 @@
 @font-face {
     font-family: audiowide;
-    src: url(Audiowide-Regular.ttf);
+    src: url('Audiowide-Regular.ttf');
  }
  * {
     padding: 0;
